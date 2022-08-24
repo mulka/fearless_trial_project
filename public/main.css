@@ -1,3 +1,12 @@
 h1 {
     color: #5c3977; /* Fearless Purple */
 }
+
+button {
+    background: #5c3977;
+    color: white;
+    padding: 20px;
+    font-weight: 700;
+    border-radius: 0;
+    border: 1px solid transparent;
+}
